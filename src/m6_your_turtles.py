@@ -2,7 +2,7 @@
 Your chance to explore Loops and Turtles!
 
 Authors: David Mutchler, Vibha Alangar, Matt Boutell, Dave Fisher,
-         Aaron Wilkin, their colleagues, and PUT_YOUR_NAME_HERE.
+         Derek Whitley, their colleagues, and PUT_YOUR_NAME_HERE.
 """
 ########################################################################
 # TODO: 1.
